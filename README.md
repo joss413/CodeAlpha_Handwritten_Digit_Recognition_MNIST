@@ -45,12 +45,15 @@ Visualized predictions with confusion matrix heatmaps
 ## 📈 Confusion Matrices
 
 1️⃣ Dense (10 sigmoid) — Accuracy: 92.5%
+
 <img src="images/cm_dense_sigmoid.png" alt="Confusion Matrix Dense 10 Sigmoid" width="400">
 
 2️⃣ Dense (100 ReLU → 10 sigmoid) — Accuracy: 97.5%
+
 <img src="images/cm_dense_relu.png" alt="Confusion Matrix Dense 100 ReLU" width="400">
 
 3️⃣ Flatten → Dense (100 ReLU → 10 sigmoid) — Accuracy: 97.7%
+
 <img src="images/cm_flatten_dense.png" alt="Confusion Matrix Flatten Dense" width="400">
 
 
@@ -84,3 +87,4 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
